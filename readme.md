@@ -1,6 +1,6 @@
 # 🚀 Skill-Based Hiring Platform
 
-**🌐 Website:** [https://easy-hire-seekers.netlify.app/](https://easy-hire-seekers.netlify.app/)
+
 
 ---
 
@@ -119,10 +119,7 @@ npm run dev
 
 ---
 
-## 🔥 Deployment
 
-- **Frontend** is deployed on **Netlify** 🚀
-- **Backend** is deployed on **Render** ☁
 
 ---
 
@@ -130,9 +127,9 @@ npm run dev
 
 Contributions are welcome! Fork the repo and submit a PR. 🛠
 
-📩 _Contact:_ **sakshikumarizen@gmail.com, hari333333om@gmail.com**
+📩 _Contact:_**abhijonrupai2003@gmail.com**
 
 ---
 
-🎯 _Developed by **Sakshi Kumari & Hari Om**_  
+🎯 _Developed by **Abhijon Chatterjee**_  
 🚀 Skill-Based Hiring Platform - 2025
