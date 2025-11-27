@@ -6,7 +6,7 @@
 
 ## 📌 Overview
 
-This project is a _Skill-Based Hiring Platform_ designed to assess candidates based on their practical skills instead of traditional resumes. It features _job postings, applications, candidate assessments, and recruiter dashboards_.
+This project is a _Skill-Based Hiring Platform_ designed to assess candidates based on their practical skills instead of traditional resumes. It features _job postings, applications, candidate assessments, and recruiter dashboards_,real time email sending according to application status of the candidate.Maintained the restriction and privacy that Recruiter cannot apply for a job and also recruiter for a company can see the jobs posted but cant see the other recruiter name or details who posted the job.A recruiter can have full access only to his/her job post.  
 
 ---
 
